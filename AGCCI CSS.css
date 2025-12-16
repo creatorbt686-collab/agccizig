@@ -2,6 +2,7 @@ body{
     background-image: url(Ville\ Zig3.jpg);
 }
 .p1{font-weight: bold;
+    
 }
 
 .p2{font-weight: bold;
@@ -21,5 +22,11 @@ body{
 text-align: justify;
 color: aliceblue;
 font-size: larger;
-t
+text-transform: lowercase;
+}
+
+table{
+    background-color: rgb(91, 203, 234);
+ 
+   
 }
